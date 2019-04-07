@@ -1,6 +1,17 @@
-# NoNameTeam
-NNT(No_Name Team)은(는) 소규모 프로그래밍팀이다.
-총 구성원은 8명이다. 
-팀장은 DarkSKillVen이며 초기팀장은 탈퇴하였다.
-아래는 팀공식사이트이다
-http://nnt.co19.kr
+# No_Name Team
+> 프로그래밍 팀
+
+## PreView
+
+![](/kh6.jpg)
+
+## 팀원
+
+* 비공개
+## 정보
+
+팀명 – [@No_Name Team](http://burlontown.com) 
+
+[https://github.com/darkskillven/this-index/](https://github.com/darkskillven/this-index/)
+
+Copyright(c)2017-2019,  No_Name Team, All rights reserved
