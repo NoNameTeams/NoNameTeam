@@ -1,7 +1,7 @@
 # No_Name Team
 > 프로그래밍 팀
 
-## PreView
+## 팀 이미지
 
 ![](/kh6.jpg)
 
